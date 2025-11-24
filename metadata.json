@@ -1,0 +1,7 @@
+{
+  "name": "Shire MedCore HMS",
+  "description": "A modern, AI-powered Hospital Management System featuring patient records, appointment scheduling, interactive dashboard analytics, and a Gemini-powered medical assistant for smart triage and documentation support.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
